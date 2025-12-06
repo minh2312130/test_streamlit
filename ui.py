@@ -1,6 +1,6 @@
 
 class UI:
-    def load_main_page(self):
+    def load_main_page():
         return """
         <div class="main-page">
             <h1>Welcome to the Main Page</h1>
